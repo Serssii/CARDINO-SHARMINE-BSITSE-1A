@@ -1,0 +1,9 @@
+x=int(input("Enter your number for X: "))
+y=int(input("Enter your number for Y: "))
+
+print(f'',x,'>',y,'=',x>y)
+print(f'',x,'<',y,'=',x<y)
+print(f'',x,'>=',y,'=',x>=y)
+print(f'',x,'<=',y,'=',x<=y)
+print(f'',x,'==',y,'=',x==y)
+print(f'',x,'!=',y,'=',x!=y)
