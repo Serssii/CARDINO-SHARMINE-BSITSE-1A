@@ -1,0 +1,5 @@
+print("years to seconds converter")
+
+convert=int(input("convert years to seconds: "))
+years_seconds=convert*31536000 
+print(str(years_seconds)+" seconds")
